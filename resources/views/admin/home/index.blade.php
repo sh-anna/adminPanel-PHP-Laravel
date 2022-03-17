@@ -5,8 +5,8 @@
 @section('content')
 
 
-    <!-- Content Header (Page header) -->
-    <div class="content-header">
+        <!-- Content Header (Page header) -->
+        <div class="content-header">
         <div class="container-fluid">
             <div class="row mb-2">
                 <div class="col-sm-6">
@@ -26,9 +26,9 @@
                     <!-- small box -->
                     <div class="small-box bg-info">
                         <div class="inner">
-                            <h3>{{$posts_count}}</h3>
+                            <h3>{{ $posts_count }}</h3>
 
-                            <p>Posts</p>
+                            <p>Post</p>
                         </div>
                         <div class="icon">
                             <i class="ion ion-bag"></i>
@@ -44,7 +44,7 @@
                         <div class="inner">
                             <h3>{{ $categories_count }}</h3>
 
-                            <p>Categories</p>
+                            <p>Category</p>
                         </div>
                         <div class="icon">
                             <i class="ion ion-stats-bars"></i>
