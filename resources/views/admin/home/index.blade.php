@@ -33,7 +33,7 @@
                         <div class="icon">
                             <i class="ion ion-bag"></i>
                         </div>
-                        <a href="{{ route('post.index') }}" class="small-box-footer">Все статьи <i
+                        <a href="{{ route('post.index') }}" class="small-box-footer">All Posts<i
                                 class="fas fa-arrow-circle-right"></i></a>
                     </div>
                 </div>
@@ -49,7 +49,7 @@
                         <div class="icon">
                             <i class="ion ion-stats-bars"></i>
                         </div>
-                        <a href="{{ route('category.index') }}" class="small-box-footer">Все категории <i
+                        <a href="{{ route('category.index') }}" class="small-box-footer">All Categories<i
                                 class="fas fa-arrow-circle-right"></i></a>
                     </div>
                 </div>
